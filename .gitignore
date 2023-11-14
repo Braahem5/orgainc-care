@@ -1,0 +1,13 @@
+.env
+node_modules
+package-lock.json
+npm-debug.log*
+testem.js
+Gruntfile.js
+app/bower_components
+/.*\.txt$/i
+/*.md
+/.*/
+\
+!./README.md
+!.*/
