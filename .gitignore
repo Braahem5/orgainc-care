@@ -11,3 +11,10 @@ app/bower_components
 \
 !./README.md
 !.*/
+!./src/assets/images/favicon.ico
+coverage
+combined.log
+error.log
+jest.config.js
+tests
+
